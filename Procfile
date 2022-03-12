@@ -1,1 +1,1 @@
-web: node . --db 'https://json-server.ajimiko.repl.co' --restrict --autoread
+worker: node . --db 'https://json-server.ajimiko.repl.co' --restrict --autoread
