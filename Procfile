@@ -1,1 +1,1 @@
-web: npm start
+web: node . --db 'https://json-server.ajimiko.repl.co'
